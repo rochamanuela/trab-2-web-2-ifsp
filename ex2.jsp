@@ -5,13 +5,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Exercicio 2</title>
 </head>
 <body>
 
     <div class="navbar">
         <a href="ex1.jsp">Exercicio 1</a>
-        <a href="ex2.jsp">Exercicio 2</a>
+        <a href="ex2.jsp" class="active">Exercicio 2</a>
         <a href="ex3.jsp">Exercicio 3</a>
         <a href="ex4.jsp">Exercicio 4</a>
         <a href="ex5.jsp">Exercicio 5</a>

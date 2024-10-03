@@ -5,6 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Exercicio 6</title>
 </head>
 <body>
@@ -14,7 +15,7 @@
         <a href="ex3.jsp">Exercicio 3</a>
         <a href="ex4.jsp">Exercicio 4</a>
         <a href="ex5.jsp">Exercicio 5</a>
-        <a href="ex6.jsp">Exercicio 6</a>
+        <a href="ex6.jsp" class="active">Exercicio 6</a>
         <a href="ex7.jsp">Exercicio 7</a>
         <a href="ex8.jsp">Exercicio 8</a>
     </div>
