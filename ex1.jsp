@@ -11,7 +11,7 @@
 <body>
 
     <div class="navbar">
-        <a href="ex1.jsp">Exercicio 1</a>
+        <a href="ex1.jsp" class="active">Exercicio 1</a>
         <a href="ex2.jsp">Exercicio 2</a>
         <a href="ex3.jsp">Exercicio 3</a>
         <a href="ex4.jsp">Exercicio 4</a>
